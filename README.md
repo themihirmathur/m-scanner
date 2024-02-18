@@ -1,3 +1,6 @@
+# M Scanner
+
+## Project Demo:
 https://github.com/themihirmathur/m-scanner/assets/92594107/555bfa4d-e702-4b03-9e44-d21aa3a9f69f
 
 ## Getting Started
