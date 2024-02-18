@@ -1,3 +1,5 @@
+https://github.com/themihirmathur/m-scanner/assets/92594107/555bfa4d-e702-4b03-9e44-d21aa3a9f69f
+
 ## Getting Started
 
 First, Install Dependencies:
@@ -6,7 +8,7 @@ First, Install Dependencies:
 npm install
 ```
 
-Get Environment variable's values or API Keys from Upload Thing Website: https://uploadthing.com/
+Get the Environment variable's values or API Keys from the Upload Thing Website: https://uploadthing.com/
 
 
 Then, run the development server:
