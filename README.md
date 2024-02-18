@@ -2,16 +2,21 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, run the development server:
+First, Install Dependencies:
+
+```bash
+npm install
+```
+
+Get Environment variable's values or API Keys from Upload Thing Website: https://uploadthing.com/
+
+
+Then, run the development server:
 
 ```bash
 npm run dev
-# or
+or
 yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
