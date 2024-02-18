@@ -1,4 +1,8 @@
-# M Scanner
+# M-Scanner 🔬
+
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
 
 ## Project Demo:
 https://github.com/themihirmathur/m-scanner/assets/92594107/555bfa4d-e702-4b03-9e44-d21aa3a9f69f
